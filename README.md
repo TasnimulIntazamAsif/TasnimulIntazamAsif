@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=👋+Hi+there!;I'm+Tasnimul+Intazam+Asif" alt="Animated Name" />
 </h1>
-=======
+
 <h1 align="left">Hey 👋 What's up?</h1>
 >>>>>>> 2aba1e975a54632981dba48586a087ea73a69d1e
 
