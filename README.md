@@ -4,11 +4,11 @@
 </h1>
 
 <h1 align="left">Hey 👋 What's up?</h1>
->>>>>>> 2aba1e975a54632981dba48586a087ea73a69d1e
+
 
 ###
 
-<p align="left">My name is Tasnimul Intazam Asif and I'm a Student from IUBAT</p>
+<p align="left"><b>My name is Tasnimul Intazam Asif and I'm a Student from IUBAT</b></p>
 
 ###
 
