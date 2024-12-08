@@ -1,108 +1,41 @@
+<<<<<<< HEAD
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=👋+Hi+there!;I'm+Tasnimul+Intazam+Asif" alt="Animated Name" />
 </h1>
+=======
+<h1 align="left">Hey 👋 What's up?</h1>
+>>>>>>> 2aba1e975a54632981dba48586a087ea73a69d1e
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ASIF1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/md.islam960/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/al.rafi.7906" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
+<p align="left">My name is Tasnimul Intazam Asif and I'm a Student from IUBAT</p>
 
 ###
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Front-end+Developer;Machine+Learning+Engineer;React+Developer;UI/UX+Designer" alt="Typing SVG" />
-</div>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">🚀 As a passionate developer with 2+ years of hands-on experience, I specialize in:
-
-• Front-end development with React.js
-• Machine Learning and Data Science
-• Deep Learning with PyTorch & TensorFlow
-• Modern CSS frameworks (Bootstrap & Tailwind CSS) 
-• Clean, efficient and responsive web development
-
-🎓 Currently pursuing B.Sc in Computer Science & Engineering at IUBAT, focusing on:
-• Advanced algorithms & Machine Learning
-• Software development principles  
-• AI/ML technologies & Deep Learning
-• Data Science & Statistical Analysis
-
-🎯 Career Goal: To become a versatile Full Stack Developer with strong ML/AI expertise through continuous learning and real-world project experience</p>
+<p align="left">📚 I'm Currently pursuing B.Sc in Computer Science & Engineering at IUBAT, focusing on: • Advanced algorithms & Machine Learning • Software development principles<br>🎯 Goals: ...To become a versatile Data Analyst ML/AI expertise through continuous learning and real-world project experience<br><br><br>💫 What I Bring to the Table:<br><br>✅ Machine Learning Model Development & Deployment<br>✅ Data Analysis & Predictive Modeling<br>✅ Deep Learning & Neural Networks<br>✅ Responsive & Mobile-First Design Implementation<br>✅ RESTful API Integration & State Management<br>✅ Strong Problem-Solving & Analytical Skills<br><br><br>I'm always excited to collaborate on innovative projects and create impactful AI-powered solutions. Check out my repositories to see my work in action!</p>
 
 ###
 
-<h3 align="left">💫 What I Bring to the Table:</h3>
-
-###
-
-<p align="left">✅ Expert Front-End Development with React.js ecosystem<br>✅ Machine Learning Model Development & Deployment<br>✅ Data Analysis & Predictive Modeling<br>✅ Deep Learning & Neural Networks<br>✅ Responsive & Mobile-First Design Implementation<br>✅ RESTful API Integration & State Management<br>✅ Strong Problem-Solving & Analytical Skills<br><br>I'm always excited to collaborate on innovative projects and create impactful AI-powered solutions. Check out my repositories to see my work in action!</p>
-
-###
-
-<h3 align="left">🛠️ Tech Stack & Tools:</h3>
+<h2 align="left">I know about</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizul-gazi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizul-gazi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/faizul-gazi/count.svg?"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
 ###
