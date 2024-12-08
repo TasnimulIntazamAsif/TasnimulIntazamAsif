@@ -17,24 +17,26 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+Developer;UI/UX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Front-end+Developer;Machine+Learning+Engineer;React+Developer;UI/UX+Designer" alt="Typing SVG" />
 </div>
 
 ###
 
-<p align="left">🚀 As a passionate front-end developer with 2+ years of hands-on experience, I specialize in crafting exceptional web experiences using:
+<p align="left">🚀 As a passionate developer with 2+ years of hands-on experience, I specialize in:
 
-• React.js for building dynamic user interfaces
+• Front-end development with React.js
+• Machine Learning and Data Science
+• Deep Learning with PyTorch & TensorFlow
 • Modern CSS frameworks (Bootstrap & Tailwind CSS) 
-• Pixel-perfect conversions from Figma/PSD/XD designs
 • Clean, efficient and responsive web development
 
 🎓 Currently pursuing B.Sc in Computer Science & Engineering at IUBAT, focusing on:
-• Advanced algorithms
+• Advanced algorithms & Machine Learning
 • Software development principles  
-• AI/ML technologies
+• AI/ML technologies & Deep Learning
+• Data Science & Statistical Analysis
 
-🎯 Career Goal: Full Stack Development mastery through continuous learning and real-world project experience</p>
+🎯 Career Goal: To become a versatile Full Stack Developer with strong ML/AI expertise through continuous learning and real-world project experience</p>
 
 ###
 
@@ -42,7 +44,7 @@
 
 ###
 
-<p align="left">✅ Expert Front-End Development with React.js ecosystem<br>✅ Responsive & Mobile-First Design Implementation<br>✅ RESTful API Integration & State Management<br>✅ Strong Problem-Solving & Analytical Skills<br><br>I'm always excited to collaborate on innovative projects and create impactful solutions. Check out my repositories to see my work in action!</p>
+<p align="left">✅ Expert Front-End Development with React.js ecosystem<br>✅ Machine Learning Model Development & Deployment<br>✅ Data Analysis & Predictive Modeling<br>✅ Deep Learning & Neural Networks<br>✅ Responsive & Mobile-First Design Implementation<br>✅ RESTful API Integration & State Management<br>✅ Strong Problem-Solving & Analytical Skills<br><br>I'm always excited to collaborate on innovative projects and create impactful AI-powered solutions. Check out my repositories to see my work in action!</p>
 
 ###
 
@@ -76,6 +78,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###
