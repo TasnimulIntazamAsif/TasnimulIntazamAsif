@@ -27,8 +27,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 40px; height: 40px;">
 </a>
 <a href="https://www.fiverr.com/asif_intezam/buying?source=avatar_menu_profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Fiverr_Logo_2020.svg" alt="Fiverr" style="width: 100px; height: auto;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Fiverr_Logo.svg" alt="Fiverr" style="width: 100px; height: auto;">
 </a>
+
 
 
 
