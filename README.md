@@ -23,7 +23,10 @@
 <h2 align="left">I know about</h2>
 
 ###
-<a href="https://www.linkedin.com/in/tasnimul-intazam-asif-4b8b5a340/" target="_blank">Visit Tasnimul Intazam Asif's LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/tasnimul-intazam-asif-4b8b5a340/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 40px; height: 40px;">
+</a>
+
 
 
 <div align="left">
